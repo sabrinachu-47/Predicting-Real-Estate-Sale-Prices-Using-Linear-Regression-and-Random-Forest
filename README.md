@@ -4,7 +4,7 @@
 This project uses machine learning to predict real estate sale prices using historical property transaction data from Connecticut (2001–2023). The goal is to understand how different property characteristics influence sale prices and to compare the performance of multiple predictive models.
 
 📓 **View the full analysis notebook:**  
-👉 **[Open the Notebook](./OMIS116%20Final%20Project-vFinal%20(1).ipynb)**
+👉 **[Open the Notebook](./real_estate_price_prediction.ipynb)**
 
 ## Dataset
 The dataset contains real estate transaction records across Connecticut, including information about property characteristics and sale prices.
